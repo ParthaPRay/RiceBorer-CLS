@@ -43,6 +43,12 @@ The best-performing model is selected using **macro-F1 score**, followed by bala
 ```text
 https://github.com/ParthaPRay/RiceBorer-CLS
 ```
+---
+
+## Huggingface Space
+```text
+https://huggingface.co/spaces/csepartha/RiceBorer-CLS
+```
 
 ### Google Colab notebook
 
